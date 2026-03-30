@@ -87,6 +87,3 @@ Author
 
 Refilwe Sebako
 
-
-Or simplify it for school submission
-
