@@ -28,7 +28,7 @@ Sales quantities
 
 Revenue generated
 
-Tools & Technologies
+TOOLS & TECHNOLOGIES
 
 SQL – Data extraction and querying
 
