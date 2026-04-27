@@ -34,7 +34,7 @@ https://datastudio.google.com/reporting/cd8e81b4-dded-438b-a896-9bc854cb55a9
 
 Explore the interactive Bright Coffee Shop Sales Dashboard:
 
-https://your-dashboard-link-here
+https://bright-coffee-brew-insight.lovable.app
 
 This dashboard provides insights into:
 - Daily revenue trends
