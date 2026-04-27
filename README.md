@@ -9,10 +9,10 @@ The analysis explores revenue trends, customer behavior, and product performance
 
 ###  **Project By**
 
-**Refilwe Lovedelia Sebako**
+**Refilwe Sebako**
  Pretoria, South Africa
  [refilwee.sebako@gmail.com](mailto:refilwee.sebako@gmail.com)
- LinkedIn: *(add your link here if you want me to insert it)*
+ LinkedIn:www.linkedin.com/in/resebako
 
  **Aspiring Data Analyst | Virtual Assistant (10+ years experience)**
 Skilled in data analysis, reporting, dashboard creation, and business operations support. Passionate about transforming data into actionable insights that drive business growth.
