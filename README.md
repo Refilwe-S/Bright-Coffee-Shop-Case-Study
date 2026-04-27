@@ -21,8 +21,14 @@ Skilled in data analysis, reporting, dashboard creation, and business operations
 
 ###  **Interactive Dashboards**
 
-*  [Bright Coffee Shop Sales Dashboard (Version 1)](https://datastudio.google.com/reporting/04d746f9-48f5-4e39-8e22-5943b3b6085c)
-*  [Bright Coffee Shop Sales Dashboard (Version 2)](https://datastudio.google.com/reporting/4251cf9c-2ead-4341-842c-f38975ad2f60)
+Dashboard 1 – Sales Overview
+https://datastudio.google.com/reporting/04d746f9-48f5-4e39-8e22-5943b3b6085c
+
+Dashboard 2 – Performance Insights
+https://datastudio.google.com/reporting/4251cf9c-2ead-4341-842c-f38975ad2f60
+
+Dashboard 3 – Advanced Analysis
+https://datastudio.google.com/reporting/cd8e81b4-dded-438b-a896-9bc854cb55a9
 
 ---
 
