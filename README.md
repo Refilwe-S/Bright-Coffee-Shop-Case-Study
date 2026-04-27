@@ -30,6 +30,20 @@ https://datastudio.google.com/reporting/4251cf9c-2ead-4341-842c-f38975ad2f60
 Dashboard 3 – Advanced Analysis
 https://datastudio.google.com/reporting/cd8e81b4-dded-438b-a896-9bc854cb55a9
 
+## Live Dashboard
+
+Explore the interactive Bright Coffee Shop Sales Dashboard:
+
+https://your-dashboard-link-here
+
+This dashboard provides insights into:
+- Daily revenue trends
+- Sales performance by product category
+- Store location performance
+- Time-based sales patterns
+
+Built using Google Lovable with interactive filters and dynamic visuals.
+
 ---
 
 ###  **Key Objectives**
